@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Short+Stack&display=swap');
+@import "./styles/vendor/doodleCss/doodle.css";
 @import 'tailwindcss';
 
 :root {
