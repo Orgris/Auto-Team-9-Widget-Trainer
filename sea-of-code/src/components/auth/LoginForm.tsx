@@ -22,12 +22,12 @@ const LoginForm = () => (
           className='h-4 w-4 cursor-pointer'
         />
 
-        <label htmlFor='remember-me' className='ml-2 block cursor-pointer text-sm'>
+        <label htmlFor='remember-me' className='ml-2 block cursor-pointer text-start text-sm'>
           Remember me
         </label>
       </div>
 
-      <a className='text-sm font-medium text-indigo-400 hover:text-indigo-500' href='#'>
+      <a className='text-end text-sm font-medium text-indigo-400 hover:text-indigo-500' href='#'>
         Forgot password?
       </a>
     </div>
