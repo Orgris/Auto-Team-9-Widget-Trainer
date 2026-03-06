@@ -7,7 +7,7 @@ const OAuthButtons = () => (
     <div className='mt-10 flex items-center gap-4'>
       <hr className='w-full flex-grow' />
       <p className='text-sm whitespace-nowrap'>Or continue with</p>
-      <hr className='w-full flex-grow' />
+      <hr className='w-full flex-grow rotate-180 transform' />
     </div>
 
     <div className='mt-6 grid grid-cols-2 gap-3'>
